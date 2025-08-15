@@ -14,14 +14,6 @@ A small learning-focused port scanner written in Python. It supports IPv4 input 
 
 ---
 
-## Project structure
-├─ ScannerMan.py # main entry; prompts for TCP/UDP and scan mode
-├─ utils.py # scan_tcp, scan_udp, user_tcp, banner grab helper
-└─ README.md
-
-
----
-
 ## Requirements
 - Python 3.9+ (works with standard library only)
 - A network you own or have permission to test
